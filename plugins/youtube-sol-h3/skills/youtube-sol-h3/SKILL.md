@@ -2,11 +2,11 @@
 name: youtube-sol-h3
 description: Plan and produce five-minute YouTube episodes as individual SOL-H3 camera shots through ComfyUI, with reusable intro/outro CTAs, character and style continuity, FFmpeg assembly, and audiovisual validation. Use for this episodic production workflow or its production packages.
 license: MIT
-compatibility: Planning requires file access. The plan validator needs Python 3.10 or later. Production additionally needs a configured ComfyUI H3 workflow, FFmpeg/ffprobe, and audiovisual review tools.
 metadata:
   author: Wrenbjor
-  version: "1.0.0"
+  version: "1.0.1"
   repository: "https://github.com/Wrenbjor/youtube-sol-h3"
+  requirements: "Planning needs file access; validation needs Python 3.10+; production needs a configured ComfyUI H3 workflow, FFmpeg/ffprobe, and audiovisual review tools."
 ---
 
 # YouTube SOL-H3 Episodes

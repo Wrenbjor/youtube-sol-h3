@@ -102,7 +102,7 @@ scripts/validate_package.py            Distribution checks
 
 ## Status and scope
 
-Version **1.0.0** packages the instructions, templates, validators, and marketplace metadata. It is not a bundled ComfyUI installation, H3 checkpoint, character LoRA, trained voice, or autonomous video-rendering service. Rendering and audiovisual acceptance have not been exercised against a configured production system.
+Version **1.0.1** packages the instructions, templates, validators, and marketplace metadata. It is not a bundled ComfyUI installation, H3 checkpoint, character LoRA, trained voice, or autonomous video-rendering service. Rendering and audiovisual acceptance have not been exercised against a configured production system.
 
 Publishing the repository makes it publicly accessible and installable. It does not imply acceptance into Anthropic's or OpenAI's curated directories, or immediate indexing by third-party skill catalogs.
 
