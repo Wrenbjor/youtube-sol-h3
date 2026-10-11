@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "channel": {
+    "name": null,
+    "promise": null,
+    "audience": null,
+    "show_premise": null,
+    "genre": null,
+    "visual_style": null,
+    "dialogue_language": "English",
+    "show_bible_path": null,
+    "character_pack_paths": [],
+    "style_pack_path": null,
+    "production_root": null
+  },
+  "episode": {
+    "total_seconds": 300,
+    "intro_seconds": 30,
+    "outro_seconds": 10,
+    "outro_duration_is_proposed": true,
+    "includes_bookends_in_total": true,
+    "order": ["intro", "story", "outro"],
+    "fps": 24,
+    "one_camera_view_per_scene": true
+  },
+  "shared_assets": {
+    "intro": {"asset_id": null, "version": null, "master_path": null, "sha256": null, "requires_like_and_subscribe": true, "qa_report_path": null},
+    "outro": {"asset_id": null, "version": null, "master_path": null, "sha256": null, "requires_like_and_subscribe": true, "qa_report_path": null}
+  },
+  "production": {
+    "writer_model": null,
+    "target_engine": "SOL-H3",
+    "comfyui_base_url": null,
+    "workflow_profile_path": null,
+    "delivery_profile": null,
+    "character_style_adapters": [],
+    "acceleration_adapters": [],
+    "max_attempts_per_scene": 3,
+    "episode_render_budget": null,
+    "video_reviewer": null,
+    "audio_reviewer_or_asr": null,
+    "publish_requested": false
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube SOL-H3 Episodes"
+  short_description: "Plan consistent episodes, render shots, and verify video"
+  default_prompt: "Use $youtube-sol-h3 to plan a five-minute episode as separate camera shots with reusable intro and outro assets."

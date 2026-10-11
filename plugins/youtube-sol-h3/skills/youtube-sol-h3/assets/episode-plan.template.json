@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "episode_id": null,
+  "title": null,
+  "show_bible_version": null,
+  "fps": 24,
+  "target_frames": 7200,
+  "intro": {"asset_id": null, "version": null, "master_path": null, "sha256": null, "edit_frames": 720},
+  "outro": {"asset_id": null, "version": null, "master_path": null, "sha256": null, "edit_frames": 240},
+  "character_ids": [],
+  "scenes": [],
+  "scene_template": {
+    "scene_id": null,
+    "sequence_id": null,
+    "view": null,
+    "camera": null,
+    "single_camera_view": true,
+    "edit_frames": null,
+    "generation_seconds": null,
+    "trim_in_frames": 0,
+    "characters": [],
+    "speaker_map": {},
+    "dialogue": [],
+    "actions": [],
+    "continuity_in": {},
+    "continuity_out": {},
+    "input_mode": null,
+    "references": [],
+    "prompt": null,
+    "workflow_profile_id": null,
+    "output_file": null,
+    "takes": [],
+    "status": "planned"
+  },
+  "dialogue_template": {
+    "line_id": null,
+    "character_id": null,
+    "language": "English",
+    "text": null,
+    "start_seconds": null,
+    "end_seconds": null,
+    "delivery": null
+  },
+  "reference_template": {
+    "label": null,
+    "asset_id": null,
+    "path": null,
+    "role": null,
+    "workflow_input": null
+  }
+}

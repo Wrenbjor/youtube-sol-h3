@@ -1,0 +1,12 @@
+{
+  "name": "wrenbjor-video-skills",
+  "interface": {"displayName": "Wrenbjor Video Skills"},
+  "plugins": [
+    {
+      "name": "youtube-sol-h3",
+      "source": {"source": "local", "path": "./plugins/youtube-sol-h3"},
+      "policy": {"installation": "AVAILABLE", "authentication": "ON_USE"},
+      "category": "Productivity"
+    }
+  ]
+}

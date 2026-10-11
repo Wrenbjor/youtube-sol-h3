@@ -1,0 +1,10 @@
+{
+  "name": "youtube-sol-h3",
+  "version": "1.0.0",
+  "description": "Plan consistent five-minute YouTube episodes with SOL-H3, ComfyUI, FFmpeg, and audiovisual QA",
+  "author": {"name": "Wayne Renbjor", "url": "https://github.com/Wrenbjor"},
+  "homepage": "https://github.com/Wrenbjor/youtube-sol-h3#readme",
+  "repository": "https://github.com/Wrenbjor/youtube-sol-h3",
+  "license": "MIT",
+  "keywords": ["agent-skills", "youtube", "sol-h3", "comfyui", "ffmpeg", "video-generation", "character-consistency"]
+}

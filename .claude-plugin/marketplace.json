@@ -1,0 +1,15 @@
+{
+  "name": "wrenbjor-video-skills",
+  "owner": {"name": "Wayne Renbjor", "url": "https://github.com/Wrenbjor"},
+  "metadata": {"description": "Agent skills for episodic AI video production", "version": "1.0.0"},
+  "plugins": [
+    {
+      "name": "youtube-sol-h3",
+      "source": "./plugins/youtube-sol-h3",
+      "description": "Plan consistent five-minute YouTube episodes with SOL-H3, ComfyUI, FFmpeg, and audiovisual QA",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": ["agent-skills", "youtube", "sol-h3", "comfyui", "video-generation", "ffmpeg"]
+    }
+  ]
+}
